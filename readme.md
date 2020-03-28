@@ -2,8 +2,8 @@
 Monitorar as falhas e bugs que acontecem no jogo.
 
 Avisos:
-* O SuddenAttack Global é totalmente compatível e recomendado de se usar na versão mais recente do Windows 10, se você estiver tendo algum problema para rodar esteja ciente que não é por conta do sistema operacional.
-* Antes de enviar o seu problema, verifique se ele não já existe, isso evita trabalho desnecessário para a nossa equipe.
+* O SuddenAttack Global é totalmente compatível e recomendado de se usar na versão mais recente do Windows 10, se você estiver tendo algum problema para rodar esteja ciente que não é por conta de estar nessa versão do sistema operacional.
+* Antes de enviar um problema, verifique se ele não já existe, isso evita trabalho desnecessário para a nossa equipe.
 * Verifique se você instalou todos os requisitos minimos para jogar SuddenAttack Global antes de reportar um problema. (Caso esteja tendo problema ao acessar o jogo)
 
 Conduta
